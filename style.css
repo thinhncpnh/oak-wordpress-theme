@@ -1,0 +1,25 @@
+/**
+Theme Name: Oak (Free)
+Description: Convert from Oak Free HTML Template to a WordPress version.
+Author: Khoi Nguyen
+Author URI: https://github.com/khoipro
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ */
+
+@import url('css/bootstrap.min.css');
+@import url('css/owl.carousel.css');
+@import url('css/owl.theme.css');
+@import url('css/jquery.kenburnsy.css');
+@import url('css/animate.css');
+@import url('css/pe-icon-7-stroke.css');
+@import url('css/iconmoon.css');
+@import url('css/et-line.css');
+@import url('css/ionicons.css');
+@import url('css/magnific-popup.css');
+@import url('css/tabs.css');
+@import url('css/tabstyles.css');
+@import url('css/loader-1.css');
+@import url('css/main.css');
+@import url('css/responsive.css');
